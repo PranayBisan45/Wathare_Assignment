@@ -1,0 +1,5 @@
+/Backend/node_modules
+/Backend/.env
+
+/tsData/node_modules
+/tsData/.env
